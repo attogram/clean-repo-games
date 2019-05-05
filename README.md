@@ -1,8 +1,9 @@
 # Clean Repo: Games
 
-Welcome to the **Clean Repo: Games** project.
+<https://github.com/attogram/clean-repo-games>
 
-**Clean Repo: Games** is a collaborative project to **find and remove hidden tracking codes** and **excessive promotional content** from open source game repositories.
+**Clean Repo: Games** is a collaborative project to find and remove 
+**hidden tracking codes**, **advertising**, **trojans** and **excessive promotional content** from open source game repositories.
 
 The type of things we remove:
 
@@ -14,19 +15,19 @@ The type of things we remove:
 
 ## How to contribute
 
-* Find an open source game repository containing tracking codes, trojans, and/or excessive promotional content.
+* Find an open source game repository containing tracking codes, advertising, trojans, and/or excessive promotional content.
 * Fork the respository
-* Edit your fork to remove all tracking codes and excessive promotional content
+* Edit your fork, removing all tracking codes, advertising, trojans, and excessive promotional content
 * Test! Make sure the game is still playable
 * Fork this repository, add a link to your new cleaned version to the Games List below, and submit a pull request
 
 ### Nudging maintainers to get clean
 
-* You may also create a pull request to the original game repository, containing your new clean version
+* You are encouraged to also create a pull request to the original game repository, containing your new clean version
 
 ## The Games List
 
-The following forks have been cleaned of hidden trackings codes and excessive promotional content:
+The following game forks have been cleaned of hidden trackings code, trojans, and excessive promotional content:
 
 * 2048 Lite - <https://github.com/attogram/2048-lite>
 * Hextris Lite - <https://github.com/attogram/hextris-lite>
