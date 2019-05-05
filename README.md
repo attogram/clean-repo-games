@@ -33,7 +33,7 @@ Last Updated: 2019-05-05
 
 * 2048 Lite - <https://github.com/attogram/2048-lite>
 * Hextris Lite - <https://github.com/attogram/hextris-lite>
-* packman lite - <https://github.com/attogram/pacman-lite>
+* pacman lite - <https://github.com/attogram/pacman-lite>
 * The Pond Lite - <https://github.com/attogram/pond-lite>
 
 ## More info
