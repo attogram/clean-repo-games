@@ -1,6 +1,6 @@
 # Clean Repo: Games
 
-<https://github.com/attogram/clean-repo-games>
+<img style="float:right;" src="https://raw.githubusercontent.com/attogram/clean-repo-games/master/clean-repo-games.png" width="250" height="250">
 
 **Clean Repo: Games** is a collaborative project to find and remove 
 **hidden tracking codes**, **advertising**, **trojans** and **excessive promotional content** from open source game repositories.
@@ -33,3 +33,7 @@ The following game forks have been cleaned of hidden trackings code, trojans, an
 * Hextris Lite - <https://github.com/attogram/hextris-lite>
 * packman lite - <https://github.com/attogram/pacman-lite>
 * The Pond Lite - <https://github.com/attogram/pond-lite>
+
+## More info
+
+See <<https://github.com/attogram/clean-repo-games>
