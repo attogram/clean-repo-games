@@ -27,7 +27,9 @@ The type of things we remove:
 
 ## The Games List
 
-The following game forks have been cleaned of hidden trackings code, trojans, and excessive promotional content:
+The following game forks have been cleaned of hidden trackings code, trojans, and excessive promotional content.
+
+Last Updated: 2019-05-05
 
 * 2048 Lite - <https://github.com/attogram/2048-lite>
 * Hextris Lite - <https://github.com/attogram/hextris-lite>
