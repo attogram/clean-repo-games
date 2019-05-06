@@ -3,15 +3,19 @@
 **Clean Repo: Games** is a collaborative project to find and remove 
 **hidden tracking codes**, **advertising**, **trojans** and **excessive promotional content** from open source game repositories.
 
-View the most recent **[Games List](https://github.com/attogram/clean-repo-games/blob/master/clean-repo-games.md)**
+View the most recent **[✔️ Games List](https://github.com/attogram/clean-repo-games/blob/master/clean-repo-games.md)**
 
 The type of things we remove:
 
-* Analytics tracking codes (Google Analytics, Google Tag Manager)
-* Advertising codes (Google Adsense)
-* Trojans (Javascript Miners)
-* Social Media promotional buttons
-* Promotional meta tags
+❌ Analytics tracking codes (Google Analytics, Google Tag Manager)
+
+❌ Advertising codes (Google Adsense)
+
+❌ Trojans (Javascript Miners)
+
+❌ Social Media promotional buttons
+
+❌ Promotional meta tags
 
 # How to contribute
 
