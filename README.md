@@ -11,7 +11,7 @@ The type of things we remove:
 * Advertising codes (Google Adsense)
 * Trojans (Javascript Miners)
 * Social Media promotional buttons
-* promotional meta tags
+* Promotional meta tags
 
 # How to contribute
 
@@ -19,7 +19,7 @@ The type of things we remove:
 * Fork the respository
 * Edit your fork, removing all tracking codes, advertising, trojans, and excessive promotional content
 * Test! Make sure the game is still playable
-* Fork this repository, add a link to your new cleaned version to the Games List below, and submit a pull request
+* Fork this repository, add a link to your new cleaned version to the **[Games List](https://github.com/attogram/clean-repo-games/blob/master/clean-repo-games.md)**, and submit a pull request
 
 ## Nudging maintainers to get clean
 
