@@ -1,4 +1,4 @@
-[![Clean Repo: Games](https://raw.githubusercontent.com/attogram/clean-repo-games/master/clean-repo-games.png)](https://github.com/attogram/clean-repo-games/blob/master/clean-repo-games.md)
+[![Clean Repo: Games](https://raw.githubusercontent.com/attogram/clean-repo-games/master/clean-repo-games.png)](https://attogram.github.io/clean-repo-games/)
 
 **Clean Repo: Games** is a collaborative project to find and remove 
 **hidden tracking codes**, **advertising**, **trojans** and **excessive promotional content** from open source game repositories.
