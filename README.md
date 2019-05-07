@@ -3,7 +3,7 @@
 **Clean Repo: Games** is a collaborative project to find and remove 
 **hidden tracking codes**, **advertising**, **trojans** and **excessive promotional content** from open source game repositories.
 
-View the most recent **[✔️ Games List](https://attogram.github.io/clean-repo-games/clean-repo-games.md)**
+View the most recent **[✔️ Games List](https://attogram.github.io/clean-repo-games/clean-repo-games.html)**
 
 The type of things we remove:
 
@@ -23,7 +23,7 @@ The type of things we remove:
 * Fork the respository
 * Edit your fork, removing all tracking codes, advertising, trojans, and excessive promotional content
 * Test! Make sure the game is still playable
-* Fork this repository, add a link to your new cleaned version to the **[Games List](https://attogram.github.io/clean-repo-games/clean-repo-games.md)**, and submit a pull request
+* Fork this repository, add a link to your new cleaned version to the **[Games List](https://attogram.github.io/clean-repo-games/clean-repo-games.html)**, and submit a pull request
 
 ## Nudging maintainers to get clean
 
