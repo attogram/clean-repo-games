@@ -1,4 +1,4 @@
-# [Clean Repo: Games](/) - The List
+# [Clean Repo: Games](https://attogram.github.io/clean-repo-games/) - The List
 
 Game | Cleaned Repo | Original Repo | Notes
 ---- | ------------ | ------------- | ------
