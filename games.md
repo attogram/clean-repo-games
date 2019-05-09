@@ -15,7 +15,7 @@ Game | Cleaned Repo | Original Repo | Notes
 **Tap Tap Tap** | ❔ | ❌ [MahdiF/taptaptap](https://github.com/MahdiF/taptaptap) | <sub>- google analytics <br />- google tag manager</sub>
 **Particle Clicker** | ❔ | ❌ [particle-clicker/particle-clicker](https://github.com/particle-clicker/particle-clicker) | <sub>- google analytics</sub>
 **Raging Gardens** | ❔ | ❌ [alunix/RagingGardensFB](https://github.com/alunix/RagingGardensFB) | <sub>- facebook code</sub>
-**Snakisms** | ❔ | ❌ [pippinbarr/SNAKISMS](https://github.com/pippinbarr/SNAKISMS) | <sub>- google analytics</sub>
+**Snakisms** | ✔️ [attogram/SNAKISMS-lite](https://github.com/attogram/SNAKISMS-lite) | ❌ [pippinbarr/SNAKISMS](https://github.com/pippinbarr/SNAKISMS) | <sub>- google analytics</sub>
 
 
-Last updated: 2019-05-06
+Last updated: 2019-05-09
