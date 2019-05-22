@@ -5,7 +5,7 @@ Game | Cleaned Repo | Original Repo | Notes
 **2048** | ✔️ [attogram/2048-lite](https://github.com/attogram/2048-lite) | ❔ [gabrielecirulli/2048](https://github.com/gabrielecirulli/2048) | <sub>- google adsense removed from original repo <br />- design issues present</sub>
 **Colorful Life** | ❔ | ❌ [jaxry/colorful-life](https://github.com/jaxry/colorful-life) | <sub>- google analytics</sub>
 **Emoji Minesweeper** | ❔ | ❌ [muan/emoji-minesweeper](https://github.com/muan/emoji-minesweeper) | <sub>- google analytics</sub>
-**hexGL** | ❔ | ❌ [BKcore/HexGL](https://github.com/BKcore/HexGL) | <sub>- google analytics <br />- favicon remote load</sub>
+**hexGL** | ❔ [attogram/HexGL](https://github.com/attogram/HexGL-lite)  | ❌ [BKcore/HexGL](https://github.com/BKcore/HexGL) | <sub>- google analytics <br />- favicon remote load</sub>
 **Hextris** | ✔️ [attogram/hextris-lite](https://github.com/attogram/hextris-lite) | ❌ [Hextris/hextris](https://github.com/Hextris/hextris) |  <sub>- trojan miner <br />- google analytics <br />- social media overuse</sub>
 **HTML5 Hearts** | ❔ | ❌ [yyjhao/html5-hearts](https://github.com/yyjhao/html5-hearts) | <sub>- google analytics</sub>
 **Javascript Piano** | ❔ | ❌ [mrcoles/javascript-piano](https://github.com/mrcoles/javascript-piano) | <sub>- twitter code</sub>
