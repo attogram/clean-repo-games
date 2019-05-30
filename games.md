@@ -18,7 +18,6 @@ Game | Clean Repo | Notes
 
 Game | Cleaned Repo | Original Repo | Notes
 ---- | ------------ | ------------- | ------
-**Colorful Life** | ❔ | ❌ [jaxry/colorful-life](https://github.com/jaxry/colorful-life) | <sub>- google analytics</sub>
 **Emoji Minesweeper** | ❔ | ❌ [muan/emoji-minesweeper](https://github.com/muan/emoji-minesweeper) | <sub>- google analytics</sub>
 **hexGL** | ❔ [attogram/HexGL](https://github.com/attogram/HexGL-lite)  | ❌ [BKcore/HexGL](https://github.com/BKcore/HexGL) | <sub>- google analytics <br />- favicon remote load</sub>
 **HTML5 Hearts** | ❔ | ❌ [yyjhao/html5-hearts](https://github.com/yyjhao/html5-hearts) | <sub>- google analytics</sub>
