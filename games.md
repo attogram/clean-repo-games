@@ -8,8 +8,8 @@ advertising-free, analytics-free, and trojan-free.
 Game | Clean Repo | Notes
 ---- | ------------ | -------------
 **2048** | ✔️ [attogram/2048-lite](https://github.com/attogram/2048-lite) | 
-**Colorful Life** | ✔️ [jaxry/colorful-life](https://github.com/jaxry/colorful-life) | <sub>original repo cleaned of</sub>
-**Snakisms** | ✔️[pippinbarr/SNAKISMS:clean](https://github.com/pippinbarr/SNAKISMS/tree/clean) | <sub>`clean` branch now available</sub>
+**Colorful Life** | ✔️ [jaxry/colorful-life](https://github.com/jaxry/colorful-life) | <sub>original repo cleaned of<br />- google analytics</sub>
+**Snakisms** | ✔️[pippinbarr/SNAKISMS:clean](https://github.com/pippinbarr/SNAKISMS/tree/clean) | <sub>`clean` branch available, cleaned of:<br />- google analytics</sub>
 **Hextris** | ✔️ [attogram/hextris-lite](https://github.com/attogram/hextris-lite) | <sub>Cleaned of:<br />- trojan miner <br />- google analytics <br />- social media overuse</sub>
 **pacman** | ✔️ [attogram/pacman-lite](https://github.com/attogram/pacman-lite) |  <sub>Cleaned of:<br />- google analytics <br />- google tag manager <br />- advertising</sub>
 **The Pond** | ✔️ [attogram/pond-lite](https://github.com/attogram/pond-lite) | <sub>Cleaned of:<br />- google analytics <br />- promotional headers <br />- kik.com code</sub>
