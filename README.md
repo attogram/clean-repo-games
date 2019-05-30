@@ -39,3 +39,4 @@ The type of things we clean up:
 
 * Web: <https://attogram.github.io/clean-repo-games/>
 * Repository: <https://github.com/attogram/clean-repo-games>
+* **[✔️ Games List](https://attogram.github.io/clean-repo-games/games.html)**
